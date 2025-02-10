@@ -37,6 +37,158 @@ From recent interview experience, I listed down all coding question which was as
 28. Write a program to implement currying which gives the sum of three numbers.
 29. Write a program to generate a 6-digit random OTP.
 30. Write a program to find the intersection of two arrays.
+
+Top 30 Front-End Developer Important Questions & Answers 🎯
+Preparing for a Front-End Developer interview? Here are some key topics that can help you ace your next opportunity! ✅
+🔹 HTML & CSS Basics:
+✅ Semantic HTML tags improve SEO & accessibility.
+✅ Box Model: Understand content, padding, border, and margin.
+✅ Media Queries for responsive design.
+🔹 JavaScript Essentials:
+✅ var, let, const – Know the differences!
+✅ Closures & Event Delegation – Must-know concepts.
+✅ Async/Await & Promises for handling asynchronous code.
+🔹 Frameworks & Performance:
+✅ Virtual DOM in React for efficient updates.
+✅ useState & useEffect hooks in React.
+✅ Web Performance Optimization: Lazy loading, CDNs, minification
+
+React Hooks revolutionized how we manage state and side effects in functional components. Whether you're a beginner or an experienced developer, understanding these hooks is essential! Here’s a quick breakdown:
+
+✅ useState - Manage state in function components
+✅ useEffect - Handle side effects (like API calls)
+✅ useContext - Access global data without prop drilling
+✅ useReducer - Alternative to useState for complex state logic
+✅ useCallback & useMemo - Optimize performance
+✅ useRef - Persist values without re-rendering
+✅ useLayoutEffect - Sync state with the DOM
+✅ useTransition & useDeferredValue - Improve UI responsiveness
+
+✅ What are React Hooks, and how do they improve functional components?
+✅ Explain the difference between useState and useEffect.
+✅ How does React handle state management, and when should you use Redux?
+✅ What is the Virtual DOM, and how does it enhance performance?
+✅ How do you optimize performance in a React application?
+
+Mastering Axios in React: The Easy Guide to Working with APIs 🚀
+
+As React developers, we often need to work with APIs to build modern web apps. When it comes to making HTTP requests, Axios is one of the most popular tools. But are you using it to its full potential? Let’s see how you can get the most out of Axios and improve your React apps! 🚀
+
+Why Choose Axios?
+Axios is more than just an HTTP client—it’s a tool that makes life easier for developers. 
+
+Here’s why:
+✅ Simple & Clean Syntax: Easier to use than the built-in fetch API.
+✅ Promise-Based: Perfect for working with async/await in modern JavaScript.
+✅ Global Error Handling: Use interceptors to handle errors or change requests/responses globally.
+✅ Request Cancellation: Cancel unnecessary API calls to improve performance.
+✅ Works on All Browsers: Runs smoothly on all modern browsers.
+
+Key Features to Learn
+
+1️⃣ Creating Custom Instances
+Instead of setting the same options every time you make a request, you can create a custom Axios instance with a base URL, headers, or timeouts. This makes your code cleaner and easier to maintain.
+
+2️⃣ Interceptors
+Interceptors let you change or handle things like adding authentication tokens to every request, or logging errors in one place.
+
+3️⃣ Canceling Requests
+Sometimes, a component might unmount before the API call finishes. Axios lets you cancel those calls to prevent memory issues and keep your app running smoothly.
+
+4️⃣ Error Handling
+Axios makes it simple to catch and handle errors, so your users won’t get stuck with a bad experience when something goes wrong.
+
+Why Does This Matter?
+Mastering Axios helps you write cleaner, more efficient code. Whether you're working on a small project or a big app, Axios will save you time and make things easier!
+
+The new 'use' React API simplifies asynchronous operations. No more need for useEffect and useState to fetch data – React will wait for the promise to resolve and update the component automatically.
+
+✅ Advantages of use:
+
+* Less code – no extra states or effects
+* Clean and readable syntax
+* Better support for server components
+
+In this post, we’ll break down the fundamental concepts of React.js that every developer should know to create amazing applications. Whether you're just getting started or brushing up on the basics, this guide will cover:
+
+✅ Creating and Nesting Components: Learn how to build modular and reusable UI elements.
+✅ Adding Markup and Styling: Discover how to use JSX and CSS to shape your components.
+✅ Displaying Data: Display dynamic content by passing data to your components.
+✅ Rendering Conditions and Lists: Implement conditional rendering and loops to make your app more interactive.
+✅ Handling Events and Updating the Screen: Get hands-on with event listeners to interact with users and dynamically update your app.
+
+
+Ace Your React.js Interviews in 2025! 🚀
+Are you preparing for a React.js interview or looking to strengthen your frontend development skills? 💡🎯 Check out this comprehensive React Interview Questions & Answers document covering essential topics:
+✅ React Components & Lifecycle
+✅ Hooks (useState, useEffect, useContext & more)
+✅ Virtual DOM & Performance Optimization
+✅ React Router & State Management
+✅ HOCs, Custom Hooks, and Advanced Concepts
+Stay ahead in the tech industry with this must-read guide! 🔥💻
+
+
+What is React?
+→ React.js is a JavaScript library for building user interfaces, particularly single-page applications (SPAs). 
+→ Developed and maintained by Facebook
+→ Focuses on creating reusable UI components
+
+What is Next.js?
+→ Next.js is a React framework that provides additional features for building production-ready applications. 
+→ Developed by Vercel
+→ Provides additional features and optimizations on top of React
+
+Which Should You Choose? 🔥
+
+Choose React.js if:
+→ Great for single-page applications, smaller projects, client-side application
+→ You want maximum flexibility to design your app’s structure.
+→ You're comfortable adding additional libraries
+
+Choose Next.js if:
+→ Ideal for larger, more complex applications, SEO-focused sites, and apps requiring server-side rendering
+→ You want a more structured, opinionated framework
+→ You prefer a production-ready setup with minimal configuration.
+
+Your Ultimate Frontend Developer Roadmap! 🛤️💻
+
+Embark on your journey to becoming a proficient frontend developer with our comprehensive roadmap. Whether you're just starting or looking to level up your skills, this guide has everything you need to succeed!
+
+🔹 Key Milestones:
+* HTML & CSS Fundamentals: Build the foundation of web development 🏗️
+* JavaScript Mastery: Dive into dynamic and interactive web elements 💡🔧
+* Responsive Design: Ensure your websites look great on all devices 📱💻
+* Frameworks & Libraries: Explore React, Angular, and more 🔍⚛️
+* Version Control: Collaborate effectively using Git and GitHub 🌐🔗
+* APIs & Fetching Data: Connect your frontend to the web 🌍🔌
+* Performance Optimization: Speed up and refine your web applications 🚀
+
+7 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐄𝐯𝐞𝐫𝐲 𝐑𝐞𝐚𝐜𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐭𝐨 𝐒𝐮𝐩𝐞𝐫𝐜𝐡𝐚𝐫𝐠𝐞 𝐀𝐩𝐩 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 🚀
+
+React is powerful, but to get the best performance, these optimization techniques are a must! Here’s a quick rundown:
+
+1. 🧠 𝐌𝐞𝐦𝐨𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Use 𝐑𝐞𝐚𝐜𝐭.𝐦𝐞𝐦𝐨 and 𝐮𝐬𝐞𝐌𝐞𝐦𝐨 to reduce unnecessary recalculations.
+2. ✂️ 𝐂𝐨𝐝𝐞 𝐒𝐩𝐥𝐢𝐭𝐭𝐢𝐧𝐠: Break up your code to load only what's needed, reducing initial load times.
+3. 🚫 𝐀𝐯𝐨𝐢𝐝 𝐄𝐱𝐭𝐫𝐚 𝐑𝐞𝐧𝐝𝐞𝐫𝐬: Detect and prevent unwanted renders with tools like React DevTools.
+4. ⏳ 𝐓𝐡𝐫𝐨𝐭𝐭𝐥𝐢𝐧𝐠 & 𝐃𝐞𝐛𝐨𝐮𝐧𝐜𝐢𝐧𝐠: Control high-frequency events for a smoother UI experience.
+5. 🔄 𝐒𝐭𝐚𝐭𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Manage state effectively to minimize reactivity.
+6. ⏬ 𝐋𝐚𝐳𝐲 𝐋𝐨𝐚𝐝𝐢𝐧𝐠: Delay loading of non-critical components to speed up initial load.
+7. ⚙️ 𝐕𝐢𝐫𝐭𝐮𝐚𝐥 𝐃𝐎𝐌 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Use React's Virtual DOM smartly to ensure fast, responsive UI updates.
+
+API Basics in JavaScript Made Simple 🌟
+
+APIs (Application Programming Interfaces) are like bridges that let your JavaScript app communicate with other services, fetch data, and perform actions. 🌐✨ They are essential for building dynamic, interactive, and data-driven web applications.
+
+✅ Fetch Data: Retrieve information from servers or databases.
+Example: Use fetch() to get weather data or news updates.
+✅ Send Data: Share user inputs or updates with servers.
+Example: Submit a form or save user preferences.
+✅ Build Better Apps: Create real-time features like live notifications, chat systems, or dynamic content.
+✅ Error Handling: Manage issues like network errors or failed requests gracefully.
+✅ Authentication: Secure your API calls using tokens or keys for protected data.
+
+With APIs, you can connect your app to the world, making it smarter and more powerful. Start mastering APIs in JavaScript today and unlock endless possibilitie
+
 ============================
 Intro
 Why We Need Context API in React
