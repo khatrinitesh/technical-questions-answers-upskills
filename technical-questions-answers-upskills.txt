@@ -2471,3 +2471,1012 @@ Modules
 2️⃣4️⃣ Flatten a nested JavaScript array without using Array.prototype.flat()
 2️⃣5️⃣ Implement a custom Sort() function
 //--------------------------------------------------------------------------
+
+The journey to becoming a Frontend Developer is like climbing a skill ladder.
+
+Each step builds on the last, and consistency is your best ally.
+
+Here’s the roadmap:
+
+1/ HTML & CSS – Start by mastering the building blocks of the web.
+2/ JavaScript – Add life and interactivity to your projects.
+3/ Frontend Frameworks – React, Angular, or Vue—choose your toolkit.
+4/ State Management – Redux, Zustand, or Context API—handles data efficiently.
+5/ Version Control – Manage your code like a pro with Git.
+6/ Build Tools & Package Managers – Webpack, Vite, npm, yarn—optimize your workflow.
+7/ APIs & AJAX – Learn how to fetch and handle data from servers.
+8/ Testing – Ensure reliability with Jest, Cypress, and Playwright.
+9/ Performance Optimization – Lazy loading, code splitting, and best practices.
+10/ Deployment & Hosting – Deploy projects with Vercel, Netlify, or Firebase.
+
+With focus and determination, you'll reach the top! 🏆
+
+-----------------------------
+
+Most frequently asked 21 programs in javascript interviews 
+
+1. Program to find longest word in a given sentence ?
+2. How to check whether a string is palindrome or not ?
+3. Write a program to remove duplicates from an array ?
+4. Program to find Reverse of a string without using built-in method ?
+5. Find the max count of consecutive 1’s in an array ?
+6. Find the factorial of given number ?
+7. Given 2 arrays that are sorted [0,3,4,31] and [4,6,30]. Merge them and sort [0,3,4,4,6,30,31] ?
+8. Create a function which will accepts two arrays arr1 and arr2. The function should return true if every value in arr1 has its corresponding value squared in array2. The frequency of values must be same.
+9. Given two strings. Find if one string can be formed by rearranging the letters of other string.
+10. Write logic to get unique objects from below array ?
+I/P: [{name: "sai"},{name:"Nang"},{name: "sai"},{name:"Nang"},{name: "111111"}];
+O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
+11. Write a JavaScript program to find the maximum number in an array.
+12. Write a JavaScript function that takes an array of numbers and returns a new array with only the even numbers.
+13. Write a JavaScript function to check if a given number is prime.
+14. Write a JavaScript program to find the largest element in a nested array.
+[[3, 4, 58], [709, 8, 9, [10, 11]], [111, 2]]
+15. Write a JavaScript function that returns the Fibonacci sequence up to a given number of terms.
+16. Given a string, write a javascript function to count the occurrences of each character in the string.
+17. Write a javascript function that sorts an array of numbers in ascending order.
+18. Write a javascript function that sorts an array of numbers in descending order.
+19. Write a javascript function that reverses the order of words in a sentence without using the built-in reverse() method.
+20. Implement a javascript function that flattens a nested array into a single-dimensional array.
+21. Write a function which converts string input into an object
+("a.b.c", "someValue");
+{a: {b: {c: "someValue"}}}
+
+Give me coding all answer many questions till 21st
+--------------------------------------------------
+
+React Developer Roadmap — Your Guide from Beginner to Pro!
+
+A complete structured path to master React — starting from core fundamentals to advanced tools and frameworks. Let’s dive in! 👇
+
+1. 🛠 Basics You Must Master First
+🧠 JSX — Writing HTML inside JavaScript
+🧩 Components — Reusable building blocks
+📦 Props — Passing data between components
+🧪 State — Managing local component data
+⚡ Events — Handling user interact
+
+2. 📌 Essential React Hooks to Know
+⿡ useState — Manage component state
+⿢ useEffect — Handle side effects
+⿣ useRef — Directly interact with the DOM
+⿤ useContext — Share global state easily
+⿥ useReducer — Manage complex state logic
+⿦ useMemo — Optimize performance by memoizing values
+⿧ useCallback — Optimize performance by memoizing functions
+
+3. 🎨 Best UI Libraries for React
+MUI (Material-UI)
+shadcn
+Chakra UI
+Ant Design
+React Bootstrap
+Blueprint
+Rebass
+
+4. 🧩 Must-Know Essential Packages
+🧭 React Router — Routing in React apps
+🌐 Axios — HTTP requests made easy
+🔍 React Query — Server state management
+📝 React Hook Form — Easy forms and validation
+🎨 Styled Components — CSS-in-JS styling
+📖 Storybook — Build and test UI components in isolation
+🎞 Framer Motion — Powerful animations for React
+
+5. 🔥 State Management Libraries
+🔧 Redux
+⚙ MobX
+🧠 Hookstate
+🌌 Recoil
+📈 Akita
+
+6. 🚀 What's Next After React?
+Next.js — Production-ready React framework
+Gatsby — Static site generator
+TypeScript — Strong typing for JavaScript
+React Native — Build mobile apps using React
+Electron.js — Build cross-platform desktop apps
+
+7. 🌍 Next.js Essentials You Should Know
+🌎 Server-Side Rendering (SSR)
+🗂 Static Site Generation (SSG)
+♻ Incremental Static Regeneration (ISR)
+📄 Dynamic Routing
+🎨 CSS/SASS Modules
+⏬ Lazy Loading
+🔗 API Routes
+
+🔖 Stay consistent, keep building, and watch yourself grow into a world-class React Developer! 🚀👨‍💻
+#React #FrontendDevelopment #WebDevelo
+
+---------------------
+𝐈𝐟 𝐲𝐨𝐮'𝐫𝐞 𝐩𝐫𝐞𝐩𝐩𝐢𝐧𝐠 𝐟𝐨𝐫 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬, 𝐭𝐡𝐞𝐬𝐞 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐉𝐒 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐘𝐨𝐮 𝐌𝐔𝐒𝐓 𝐌𝐚𝐬𝐭𝐞𝐫 (𝐏𝐚𝐫𝐭 𝟐)
+
+Here’s another powerful set of JavaScript concepts you NEED to understand for interviews and real-world projects 👇
+
+⿡ Currying.
+⿢ Prototype.
+⿣ Async/Await and Promises.
+⿤ Hoisting (var, let, const).
+⿥ Why is JavaScript Single-threaded?
+
+----------------------------
+
+Arrays in JavaScript are more than just lists — they’re power tools when you truly understand them.
+
+Here’s how you can elevate your array game:
+
+✅ map() – Transform elements effortlessly  
+✅ filter() – Extract only what matters  
+✅ reduce() – Boil down arrays to a single value  
+✅ some() / every()– Quick logic checks  
+✅ find() / findIndex() – Grab the first match fast  
+✅ flat() / flatMap()– Tame nested chaos  
+✅ spread (...) & destructuring – Cleaner syntax, cleaner code  
+✅ at() – Access from the end like a boss (arr.at(-1))
+Arrays are the heart of data manipulation in JS.  
+Master them—and you'll write faster, cleaner, and more expressive code.
+------------------------
+Coding question for interviews.
+From past interview experience, I listed down all coding question which was asked to me and some more questions which might be helpful. 
+
+1. Write a function to reverse each word in a string.
+2. Write a function to find the number of characters in a string.
+3. Write a function to find the maximum value from an object.
+4. Create your own string method: repeatify(3) - the input string will be repeated three times.
+5. Write a JavaScript program to return the count of each character in a string.
+6. Write a JavaScript program to remove all occurrences of a specified character from a given string.
+7. Write a JavaScript program that takes two strings as input and returns true if they are anagrams of each other, otherwise returns false.
+8. Write a JavaScript program that converts a string to camelCase.
+9. Write a function to find the sum of all fruits in an array.
+10. Write a function to find two numbers which equal a given target sum.
+11. Write a function to find the shortest word in a list of strings.
+12. Write a function to separate palindrome numbers from an array.
+13. Write a function to return the count of characters in a string.
+14. Write a function to return the missing number from an array.
+15. Write a JavaScript program to group items of an array by category.
+16. Write a JavaScript program that takes an array of objects and returns an object containing the frequency of each property across all objects.
+17. How do you compare two objects in JavaScript, ensuring the identical order of keys?
+18. Collect books from an array of objects and return a collection of books as an array.
+19. Write a function that returns unique characters from a string.
+20. Write a function that takes an array of integers and returns the maximum product that can be obtained by multiplying any three numbers from that array.
+21. Write a function to move all zeros to the end of the array while maintaining the relative order of the non-zero elements.
+22. Write a function to check if a string is a palindrome, considering only alphanumeric characters and ignoring cases.
+23. Given a sorted array and a target value, write a function to return the index of the target value in the array using binary search. If the target is not found, return -1.
+24. Write a function to return the first non-repeating character in a string. If not available, return -1.
+25. Write a function to find the occurrence of each character in a given string.
+26. Write a function to flatten a nested array.
+27. Write a JavaScript program to remove duplicate elements from an array in different ways.
+28. Write a program to implement currying which gives the sum of three numbers.
+29. Write a program to generate a 6-digit random OTP.
+30. Write a program to find the intersection of two arrays.
+31. Write a custom array method for finding the max and min value.
+32. Write a JavaScript program to capitalize the first letter of each word in a given string.
+33. Write a JavaScript program that determines whether a given string contains only unique characters or not.
+34. Write a JavaScript function that checks if the sum of all integers in an array equals the highest integer in that array.
+35. Write a JavaScript program to find unique object property values.
+36. Write a JavaScript program to return all objects with the maximum value from a given JavaScript object.
+37. Write a JavaScript program that takes an array of numbers and returns the sum of all numbers that are divisible by both 3 and 5.
+38. Write a JavaScript program that takes two sorted arrays of numbers and merges them into a single sorted array.
+39. Write a JavaScript program that takes two objects and returns a new object with properties that exist in both input objects.
+40. Write a JavaScript program to find duplicate numbers from an array.
+41. Write a program to remove Every Alternate Element from an Array
+
+
+Get the solution here along with many JS interview questions:
+
+--------------------------------------
+
+Essential JavaScript Topics for Frontend Interviews
+
+If you want to crack 95%+ of interviews, master these areas:
+
+🎯 Core Concepts:
+
+✨ Closures (Counter function, Memoization)
+
+✨ this keyword (bind, call, apply)
+
+✨ Prototypes and Inheritance (Object.create, prototype chain)
+
+✨ Promises and Async/Await
+
+✨ Event Delegation and Event Bubbling
+
+✨ Debounce and Throttle Functions
+
+✨ Deep Clone vs Shallow Clone
+
+✨ Hoisting (var, let, const behaviors)
+
+✨ Scope and Lexical Environment
+
+✨ Error Handling in Sync/Async code
+
+✨ Currying Functions
+
+✨ Function Composition
+
+✨ Higher-Order Functions (map, filter, reduce)
+
+✨ The Event Loop and Microtasks vs Macrotasks
+
+✨ SetTimeout / SetInterval Behavior
+
+✨ Module Systems (CommonJS, ESM)
+
+✨ IIFE (Immediately Invoked Function Expressions)
+
+🎯 Advanced Concepts:
+
+⚡ Custom Promise.all, Promise.race
+
+⚡ Writing a simple debounce() and throttle() from scratch
+
+⚡ Implementing your own map, filter, reduce
+
+⚡ Designing a Pub/Sub Event Emitter
+
+⚡ Polyfilling bind, call, apply
+
+⚡ Building a simple useState hook (for React interview rounds)
+
+⚡ Memoization techniques
+
+⚡ Custom Deep Copy utility (without using lodash)
+
+⚡ Factory functions vs Constructor functions
+
+⚡ Observables (basic intro if aiming for high-end companies)
+
+🎯 Coding + System Design Basics:
+
+🔥 Implement a Light/Dark Theme Toggle
+
+🔥 Infinite Scrolling Logic
+
+🔥 Virtualization Concepts (Windowing lists)
+
+🔥 Intersection Observer API
+
+🔥 Mutation Observer Basics
+
+🔥 Lazy Loading Images
+
+🔥 LocalStorage vs SessionStorage vs Cookies
+
+🔥 Writing a simple Drag and Drop
+
+🔥 Web Workers (Basics understanding)
+
+🔥 IndexedDB vs LocalStorage
+
+🔥 WebSockets and Polling (basic differences)
+-------------------------------------
+
+Mastering Advanced Promise Patterns in JavaScript
+
+If you’ve been using fetch() or async/await, you’re already working with Promises—but JavaScript offers powerful tools beyond just .then().
+
+Here are 4 advanced Promise patterns every developer should know:
+
+1. Promise.all([]) – Waits for all promises to resolve. Fails fast if any reject.
+Great for parallel tasks that must all succeed.
+
+
+2. Promise.race([]) – Resolves/rejects as soon as any promise settles.
+Useful for timeouts or competitive requests.
+
+
+3. Promise.allSettled([]) – Waits for all to finish, regardless of success or failure.
+Best when you want the result of everything without short-circuiting.
+
+
+4. Promise.any([]) – Resolves as soon as one succeeds. Only fails if all fail.
+Ideal when you need just one successful result.
+
+Learning these can make your async code more powerful, predictable, and performant.
+-------------------------------------
+
+JavaScript Animation Libraries 🔥
+
+📍Anime.js
+📍ScrollReveal.js
+📍Popmotion
+📍AniJS
+📍Wow.js
+📍Typed.js
+📍Velocity.js
+📍GSAP
+
+JS Learning Resources 👇
+t.me/javascriptresourcestp 
+
+-------------------------------------
+You can learn ReactJS easily 🤩
+
+Here's all you need to get started 🙌
+
+1.Components
+•  Functional Components
+•  Class Components
+•  JSX (JavaScript XML) Syntax
+
+2.Props (Properties)
+•  Passing Props
+•  Default Props
+•  Prop Types
+
+3.State
+•  useState Hook
+•  Class Component State
+•  Immutable State
+
+4.Lifecycle Methods (Class Components)
+•  componentDidMount
+•  componentDidUpdate
+•  componentWillUnmount
+
+5.Hooks (Functional Components)
+•  useState
+•  useEffect
+•  useContext
+•  useReducer
+•  useCallback
+•  useMemo
+•  useRef
+•  useImperativeHandle
+•  useLayoutEffect
+
+-------------------------------
+Are you passionate about building high-performance, responsive, and SEO-friendly web applications? We’re looking for a Senior Frontend Developer with strong expertise in React.js, UI/UX, and SEO best practices to join our fast-growing team.
+
+What you’ll be working on:
+🔹 Modern React-based UI development
+🔹 Implementing SEO strategies in SPA/SSR/Static environments
+🔹 Creating beautiful, user-focused designs
+🔹 Collaborating with cross-functional teams
+🔹 Performance optimization and accessibility
+
+Tech stack:
+React.js | JavaScript (ES6+) | HTML5/CSS3 | Tailwind/MUI | Next.js | SEO tools | REST/GraphQL | Git
+
+✨ If you’re someone who thrives in a product-driven environment and loves creating intuitive and impactful user experiences, we’d love to connect!
+----------------------------
+Frontend Web Development – Step by Step Roadmap 🔥
+
+Want to become a frontend developer? Here’s your clear path 👇
+
+🧱 HTML & CSS (5 Days)
+Learn the structure and styling of web pages.
+
+💡 JavaScript Basics (12 Days)
+Make your website interactive.
+
+🧠 DOM Manipulation (6 Days)
+Control content dynamically.
+
+🧰 Version Control with Git (2 Days)
+Collaborate & manage your code history.
+
+🎨 CSS Preprocessors (4 Days)
+Use Sass/SCSS for scalable styling.
+
+⚙ JavaScript Framework (10 Days)
+Pick one: React, Vue, or Angular.
+
+📱 Responsive Design (7 Days)
+Build mobile-friendly, flexible layouts.
+
+🔄 Repeat: Build Projects. Practice. Learn.
+
+✅ Bonus:
+
+Learn basic SEO & accessibility 🌐
+
+Explore build tools like Webpack, Vite ⚙
+
+💬 Ready to start your frontend journey?
+Drop a “🔥” if you're on it!
+
+-------------------------
+Frontend Devs (0–4 years): Here's the advice I wish someone gave me earlier
+Not the generic “learn HTML, CSS, JS” stuff.
+This is what I learned only by building real things, breaking them, and debugging at 2 AM. 😅
+
+⚡ 1. Don’t build for perfect Figma files — build for real-world mess
+Designs look great.
+But what happens when text overflows? Images break? API returns null?
+Real users are messy. Code for the ugly edge cases.
+
+🧪 2. Want to write better UI code? Watch users struggle with it
+You’ll instantly learn the value of:
+Clear error messages
+Focus states
+Button loading spinners
+Keyboard navigation
+
+🧠 3. Your best friend? Not Stack Overflow. It's sites like:
+🔸 caniuse.com – For browser support
+🔸 polypane.app – For testing multiple viewports & a11y
+🔸 component.party – Compare UI component code in different frameworks
+🔸 SmolCSS.dev – For practical, tiny CSS patterns
+
+💡 4. “Why” matters more than “how”
+Anyone can Google a flexbox layout.
+Few can explain why a bug appears only on Firefox with a flex child and 𝘮𝘪𝘯-𝘩𝘦𝘪𝘨𝘩𝘵: 0.
+Learn the 𝘸𝘩𝘺, not just the copy-paste.
+
+--------------------------
+The JavaScript CHEAT SHEET I Wish I Had Starting Out! 👨‍💻⚡
+ (Just 5 Slides: Arrays, Strings, Dates, DOM, and Events)
+Tired of constantly googling the same JavaScript methods?
+ This clean and practical cheat sheet covers the core techniques you’ll use daily — minimal syntax, real-world usage, and instantly ready to copy-paste.
+🔹 Array Methods
+ ✅ map() – transform each item
+ ✅ filter() – keep what you need
+ ✅ find() – grab the first match
+ ✅ sort() – rearrange data
+🔹 String Methods
+ ✅ slice() – extract a section
+ ✅ includes() – check existence
+ ✅ charAt() – get a character
+ ✅ padStart() – format output
+🔹 Date Methods
+ ✅ Easily create, format & manipulate dates
+ ✅ Avoid common JS date pitfalls with clear examples
+🔹 DOM Methods
+ ✅ createElement()
+ ✅ setAttribute()
+ ✅ innerText
+ ✅ classList.toggle()
+🔹 DOM Events
+ ✅ click, submit, keydown, mouseover, scroll
+ Grouped for quick lookup and practical use.
+👀 Perfect For:
+ ✔ Self-taught developers
+ ✔ Frontend beginners
+ ✔ Visual learners
+ ✔ Anyone tired of messy documentation
+📥 Swipe the carousel or download the PDF
+ 📤 Share with a friend learning JavaScript
+ 📩 Follow for more dev-friendly resources, roadmaps & mini-guides
+--------------------------------------------
+Whether you're just starting out or preparing for interviews, having a solid understanding of array methods is crucial for writing clean, efficient, and maintainable JavaScript code.
+Here’s a collection of the most useful and widely-used array methods every developer should be comfortable with:
+ ✨ map(), filter(), reduce(), find(), at(), push(), pop(), and many more.
+🔍 Why these methods matter:
+Data transformation (map)
+Value aggregation (reduce)
+Searching within arrays (find, findIndex)
+Array modification (push, pop, shift, unshift, fill, etc.)
+💡 I’ve created a concise reference image (attached below) showcasing practical examples and outputs for these methods.
+Let’s simplify JavaScript development together!
+ 🔖 Save this post for future reference
+ 💬 Share your most-used array method in the comments
+
+-------------------------------------
+Stop waiting for “perfect” code.
+
+Even the biggest, most polished frameworks aren’t flawless:
+ 🔵 Next.js — 2.3k open issues
+ 🔵 React — 802 open issues
+ 🔵 Angular — 1.5k open issues
+ 🔵 Vue — 668 open issues
+
+These are built by some of the smartest engineers in the world, used by millions, and backed by top companies — yet they still have bugs.
+
+If you’re holding back your side project, app, or feature because it’s “not perfect,” you’re losing time while others are learning, shipping, and improving.
+
+✅ Launch now.
+✅ Learn as you go.
+✅ Iterate constantly.
+
+Perfection is an illusion. Progress is
+-----------------------------------
+My Full Stack Web Development Roadmap
+
+When I started my journey in tech, the biggest question was:
+👉 Where do I begin?
+👉 What should I learn step by step?
+
+After exploring, building projects, and learning continuously, I’ve structured this roadmap for Full Stack Development 💻.
+It covers everything — from Frontend (React, HTML, CSS, JS) → Backend (Node.js, Express) → Databases (MySQL, MongoDB) → Deployment & Tools.
+
+✨ If you are also learning Web Development or planning to become a Full Stack Developer, this roadmap will guide you!
+
+💡 I believe learning with consistency and building projects is the real secret to growth.
+
+👉 Are you also on the same journey? Let’s connect and grow together 🤝
+----------------------------
+Essential JavaScript Topics for React & Next.js 📚
+ Before diving into React or Next.js, it’s important to build a strong foundation with JavaScript.
+
+Understanding these will help you write cleaner, efficient code and truly grasp how React & Next.js work under the hood. 💡
+📌 Great resources to learn:
+JavaScript Mastery
+freeCodeCamp
+W3Schools
+✨ Keep learning, keep building. Happy Coding!
+-------------------------------
+Arrow functions 
+Filter and map 
+Slice and splice 
+Destructing 
+Spread operators and rest
+Template literals 
+Promise and async / await
+---------------------
+All API Interview Questions - Easy and Sorted!
+
+Are you getting ready for a frontend or full-stack interview? One topic that always comes up is APIs!
+
+In this post, I've shared a full list of API questions you may get in interviews.
+
+Each question has a simple answer
+
+✔ All topics are well organized
+
+Easy to understand for everyone
+
+You'll find questions about:
+
+REST APIS
+
+HTTP methods (GET, POST, etc.)
+
+Status codes (like 200, 404)
+
+Headers
+
+API integration in real apps
+
+Save this post to help you prepare better and feel more confident!
+
+Because understanding APIs = building smarter apps
+
+Top Resources for Coding Enthusiasts:
+
+W3Schools.com
+
+JavaScript Mastery
+
+Share with your network
+Comment your thoughts
+Save for future reference
+Like if you found it helpful
+-----------------------------------
+Ace Your JavaScript Interviews! 🔍
+
+I’ve compiled a collection of 39 essential JavaScript interview questions — complete with clear, concise, and beginner-friendly solutions — that cover everything from string manipulation to sorting algorithms, recursion, and more!
+
+ Whether you're preparing for your next tech interview, brushing up your JS fundamentals, or mentoring aspiring developers, this guide is a handy resource to have in your toolkit. 💼📘
+
+👨💻 Topics include:
+✅ Reversing strings & numbers
+✅ Palindromes & prime checks
+✅ Fibonacci series & factorials
+✅ Sorting techniques (bubble, selection)
+✅ Login validation logic
+✅ Anagrams, Pascal's triangle, and much more!
+
+🔗 Feel free to download, share, and practice!
+
+-----------------------------
+React Tip of the Day – useRef Hook
+
+Many React devs think useRef is only for accessing DOM elements (like focusing an input).
+But it’s more powerful than that 👇
+
+🔹 Persistent values – Unlike state, updating a ref doesn’t cause a re-render. Perfect for storing values you don’t want to trigger UI updates.
+
+🔹 DOM manipulation – Directly reference and control elements (focus, scroll, animations).
+
+🔹 Interval & timeout tracking – Store IDs without worrying about re-renders clearing them.
+
+———- code start ———-
+
+function Timer() {
+  const intervalRef = useRef(null);
+
+  useEffect(() => {
+    intervalRef.current = setInterval(() => {
+      console.log("⏱ Running...");
+    }, 1000);
+
+    return () => clearInterval(intervalRef.current);
+  }, []);
+
+  return <p>Timer started! ⏳</p>;
+}
+——— code end ——
+
+✅ useRef is your go-to when you need a mutable container that survives re-renders but doesn’t cause re-renders.
+
+👉 How do you mostly use useRef? DOM access, timers, or storing values?
+
+--------------------------
+React 19 introduces a small but powerful change: the use hook.
+
+Until now, handling async data in React often meant juggling state + useEffect + loaders.
+With use, you can directly unwrap a Promise inside your component.
+
+Example:
+
+function User() {
+  const user = use(fetchUser());
+  return <h1>{user.name}</h1>;
+}
+
+✨ Cleaner. Simpler. No extra boilerplate.
+
+This is one of those features that looks small, but it makes real-world React code much easier to maintain.
+---------------------------
+Revision 😃 
+
+Top React-based hashtag
+#interview questions that can help you ace your career
+
+1. What is React?
+ 2. What is useMemo ?
+ 3. What are the features of React ?
+ 4. What is JSX ?
+ 5. What is DOM ?
+ 6. What is Virtual Dom ?
+ 7. What is component life cycle of React class component ?
+ 8. What are fragments in react ?
+ 9. What are props in react ?
+ 10. What are synthetic events in react ?
+ 11. What are the difference between Package.json and Package.lock.json ?
+ 12. What are the differences between client side and server side rendering ?
+ 13. What is state in Reactjs?
+ 14. What are props ?
+ 15. What are the differences between State and Props in react ?
+ 16. What is props drilling ?
+ 17. What are the disadvantages of props drilling and How we can avoid props drilling ?
+ 18. What are Pure components in React ?
+ 19. Whatare Ref’s in React?
+ 20. What is meant by forward ref ?
+ 21. What are Error boundaries ?
+ 22. What are Higher order components in react ?
+ 23. What are the differences between controlled and uncontrolled components ? 
+ 24. What is useCallback ?
+ 25. What are the differences between useMemo and useCallback ?
+ 26. What are keys in React ?
+ 27. What is Lazy loading in React ?
+ 28. What is suspense in React ?
+ 29. What are custom hooks ?
+ 30. What is useReducer hook ?
+ 31. What are Portals in react ?
+ 32. What is context in react ?
+ 33. Practical question: Give an example of context api usage ?
+ 34. What is the purpose of callback function as an argument of setState()?
+ 35. Practical question: create a custom hook for increment/decrement counter ?
+ 36. Which lifecycle hooks in class component are replaced with useEffect in functional components ?
+ 37. What is Strict mode in react ?
+ 38. What are the different ways to pass data from child component to parent component in react ?
+ 39. Practical question: How to send data from child to parent using callback functions ?
+ 40. Practical question: How to send the data from child component to parent using useRef ?
+ 41. How do you optimize your react application ?
+ 42. How would you consume a RESTful JSON API in reactjs?
+ 43.different design patterns used in react?
+ 44. context api vs redux
+ 45. prop types in react(How to apply validation on props in react)
+ 46. What are React Mixins ?
+ 47. what are the different hooks you have used ?
+ 48. What are render props in react ?
+ 49. What are the different types of exports and imports ?
+ 50. What are the differences between create element vs clone element in react ?
+ 51. When to use useState and useReducer?
+ 52. What are protected routes in react ?
+ 53. Does React Router support a context menu?
+ -------------------------------------
+ After giving 5+ interviews, I found only 20 topics you should really master at interview
+
+𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗼𝗿𝗲:
+
+1. Closures & Scope
+2. Event Loop & Async
+3. Promises & Async/Await
+4. Hoisting & This Keyword
+5. Prototypes & Inheritance
+
+𝗥𝗲𝗮𝗰𝘁 𝗠𝗮𝘀𝘁𝗲𝗿𝘆:
+
+6. useState & useEffect
+7. Context API & useContext
+8. Custom Hooks
+9. Component Lifecycle
+10. State Management (Redux/Zustand)
+
+𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 & 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻:
+
+11. Code Splitting & Lazy Loading
+12. Memoization (useMemo, useCallback)
+13. Virtual DOM & Reconciliation
+14. Bundle Optimization
+15. Web Vitals & Performance Metrics
+
+𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀:
+
+16. Event Delegation & Bubbling
+17. Debouncing & Throttling
+18. Error Boundaries & Error Handling
+19. Browser Storage (localStorage, sessionStorage)
+20. REST APIs & HTTP Methods
+----------------------------
+My Learning Journey in React.js – Components 🚀
+
+I recently explored one of the most important concepts in React – Components. Here are my key takeaways:
+
+🔹 Components are the building blocks of a React application. They allow us to create reusable UI pieces, helping to build complex interfaces efficiently.
+
+🔹 Types of Components:
+ ✅ Functional Components – Simple JavaScript functions that return UI elements. They are modern, easier to write, and widely used today.
+ ✅ Class Components – Built using ES6 classes with a render() method. This is the older approach but still works in React.
+
+✅ Conclusion:
+ Components are reusable UI blocks that make development faster and more organized. Today, Functiona
+ -------------------------------
+ Master React.js faster with this cheat sheet covering all the essentials - from JSX, components, props, and state, to hooks, lifecycle methods, and routing. Perfect for quick revision before interviews or while building projects. Keep it handy to speed up your learning journey and boost productivity in development!
+ -----------------------
+ Recently, I interviewed for multiple Senior React.js & Tech Lead roles — and noticed a pattern.
+Most interviewers asked basic but frequently repeated questions that test your clarity of concepts + coding approach.
+
+Here are the Top 10 common questions I was asked 👇
+
+⿡ Call, Apply, Bind → Difference + Polyfill implementation
+⿢ Flatten an Array without Array.flat()
+👉 Input: [1,2,3,[4,5,6,[7,8,[10,11]]],9]
+👉 Output: [1,2,3,4,5,6,7,8,10,11,9]
+⿣ Inline 5 divs in a row without flex/margin/padding (Hint: display: inline-block)
+⿤ Find sum of numbers without a for loop (Hint: reduce() / recursion)
+⿥ Deep Copy vs Shallow Copy — behavior & how to achieve it
+⿦ Promise & Async/Await output puzzle
+⿧ Find first repeating character (e.g., "success" → "c")
+⿨ Stopwatch Implementation (Start, Stop, Reset + live timer)
+⿩ Build a To-Do List (Vanilla JS/React) → optimize re-renders
+🔟 Currying for Infinite Sum
+👉 sum(10)(20)(30)() → 60
+👉 sum(10)(20)(30)(40)(50)(60)() → 210
+
+----------------------------
+Ready to test your JavaScript skills?
+ 
+Here is a series of JS code snippets where you guess the output before going to the next slide with the correct answer. It's a fun way to challenge yourself, learn quirks of the language, and sharpen your problem-solving skills.
+
+💬 Drop how many did you get correct in the comments — let's see who gets them all
+
+🟢 1. React Fundamentals
+⿡ What is React?
+ ⿢ What are the key features of React?
+ ⿣ What is JSX?
+ ⿤ What is the DOM?
+ ⿥ What is Virtual DOM?
+ ⿦ What are props in React?
+ ⿧ What is state in ReactJS?
+ ⿨ What is the difference between props and state?
+ ⿩ What is prop drilling?
+ 🔟 How to avoid prop drilling?
+
+🔵 2. Component System & Lifecycle
+
+⿡⿡ What is the component lifecycle in React class components?
+ ⿡⿢ What are Pure components in React?
+ ⿡⿣ What are fragments in React?
+ ⿡⿤ What are Refs in React?
+ ⿡⿥ What is forwardRef?
+ ⿡⿦ What are Error Boundaries?
+ ⿡⿧ What are Higher Order Components (HOCs)?
+ ⿡⿨ What are Portals in React?
+ ⿡⿩ What is Strict Mode in React?
+
+🟠 3. Hooks Deep Dive
+
+⿢⿠ What is useState and when to use it?
+ ⿢⿡ What is useReducer and when to use it over useState?
+ ⿢⿢ What is useEffect and which class lifecycle methods does it replace?
+ ⿢⿣ What is useMemo?
+ ⿢⿤ What is useCallback?
+ ⿢⿥ Difference between useMemo and useCallback?
+ ⿢⿦ What are custom hooks?
+ ⿢⿧ What are the different hooks you’ve used?
+
+🧠 4. Practical Coding & Usage
+
+⿢⿨ Create a custom hook for increment/decrement counter
+ ⿢⿩ Practical: Use callback function to send data from child to parent
+ ⿣⿠ Practical: Send data from child to parent using useRef
+ ⿣⿡ Practical: Use Context API with a working example
+
+🟣 5. Data Flow, Events & Rendering
+⿣⿢ What are synthetic events in React?
+ ⿣⿣ What are controlled vs uncontrolled components?
+ ⿣⿤ What are keys in React?
+ ⿣⿥ What is lazy loading in React?
+ ⿣⿦ What is Suspense in React?
+ ⿣⿧ What is the purpose of the callback function inside setState()?
+ ⿣⿨ Different ways to pass data from child to parent component
+
+🟡 6. Context, Redux, and State Management
+
+⿣⿩ What is Context API in React?
+ ⿤⿠ Practical: Example usage of Context API
+ ⿤⿡ Context API vs Redux — when to use what?
+ ⿤⿢ What are prop types? How to apply validation on props?
+
+🔴 7. Performance & Patterns
+
+⿤⿣ How do you optimize a React application?
+ ⿤⿤ How do you consume a RESTful JSON API in ReactJS?
+ ⿤⿥ What are different design patterns used in React?
+ ⿤⿦ What are React Mixins?
+ ⿤⿧ What are render props in React?
+ ⿤⿨ What is the difference between React.createElement and React.cloneElement?
+ ⿤⿩ What are the different types of exports and imports in React?
+ ⿥⿠ What are protected routes in React?
+ ⿥⿡ Does React Router support context menus?
+ --------------------------
+ Sharing what I've learned in my Frontend journey
+
+After over 1.5 years in Frontend development, one thing is clear: PR reviews have been my greatest teacher. Here are some key takeaways in aspects of clean, maintainable , readible code:
+
+⿡ Write concise code – Use inline conditionals, nullish coalescing over ternary operators.
+
+⿢ Avoid hardcoded strings – Move constants to a separate file for maintainability.
+
+⿣ Remove unnecessary code – No unused variables or commented code and consoles.
+
+⿤ TypeScript discipline – Avoid any or null, and resolve errors properly.
+
+⿥ Proper naming conventions – Names should be meaningful and context-aware.
+
+⿦ Linting & formatting matter – Clean, readable code reduces review friction and makes code  maintainable.
+
+
+💡 Lesson beyond code: Writing code that works is easy. Writing code that others can understand is what makes you valuable.
+
+✨ Clean, maintainable code isn't just technical — it's a work ethic.
+
+💭 What coding principle has made the biggest impact in your development journey
+--------------------------
+🟣 𝗥𝗲𝗮𝗰𝘁
+
+What is SPA (Single Page Application)
+
+State & Props, Component Lifecycle
+
+Prop drilling & ways to avoid it
+
+Context API vs Redux
+
+Performance & Asset optimization
+
+useRef vs state
+
+useMemo & useCallback (with examples)
+
+Pure Components
+
+Lazy Loading with Suspense
+
+🕒 Duration: 1 hour 30 minutes
+✅ Status: Cleared
+
+💡 Key takeaways:
+👉 Always strengthen your core concepts (HTML, CSS, JS, React)
+👉 Be ready to write code live and explain your thought process
+👉 Don’t hesitate to admit your rating honestly, but also show willingness to learn & grow
+------------------------------
+What 50+ Interviews Taught Me About JavaScript
+
+In the last one year, I have attended more than 50 interviews for frontend and backend roles. One thing I realised is that most of the questions are not about frameworks, but about JavaScript fundamentals.
+
+If you are preparing for React or Node.js, do not skip these topics:
+
+1. Execution context
+2. Call stack, event loop, microtask and callback queue
+3. Hoisting and functions in JavaScript
+4. Async vs defer
+5. Scope, lexical environment, hoisting
+6. Temporal dead zone, var, let, const
+7. Event bubbling and event capturing
+8. Interceptors, fetch, abort controllers
+9. Block scope, shadowing, closures
+10. setTimeout, setInterval, clearInterval
+11. Debounce and throttle
+12. Call, apply, bind and binding of this
+13. Prototypes and inheritance
+14. IIFE and event listeners
+15. Higher order functions, pure/impure functions
+16. Map, filter, reduce
+17. Classes, objects and arrays
+18. Async/await, promises, promise.all(),promise.race() [and its variations]
+19. Try, catch, finally
+20. Type coercion
+21. Deep copy and shallow copy
+22. Currying
+23. CORS
+24. Composition over inheritance
+25. Pipe and compose functions
+26. Memoization and performance
+27. Variations of loops
+28. Generator functions
+29. Modules in JavaScript
+30. WeakMap, WeakSet
+31. Lazy loading
+31. LocalStorage, SessionStorage, Cookies
+32. Synthetic events and event delegation
+
+Also, make sure you learn polyfills in JS:
+1. map, filter, reduce
+2. call, apply, bind
+3. once, memoize(from loadash library)
+4. forEach, promise, promise.all
+5. debounce, throttle
+6. flat, find, some, every, includes
+
+Let me know if you found it useful.
+---------------------------30 Core JavaScript Concepts to Brush Up Before Your Next Frontend Interview
+
+Execution Context & Call Stack –> how JS runs your code line by line.
+Hoisting –>what gets lifted and what doesn’t.
+Closures –> lexical scope + hidden power.
+Event Loop & Concurrency Model –> microtasks vs macrotasks.
+Promises & async/await –> chaining, error handling, pitfalls.
+this keyword –> implicit, explicit, arrow functions.
+Prototypes & Inheritance –> how objects really share behavior.
+Scope (var, let, const) –> function, block, temporal dead zone.
+Functions as First-Class Citizens –> callbacks, higher-order functions.
+Currying & Partial Application –> real-world use in React handlers.
+Debounce & Throttle –> critical for performance in UI apps.
+Modules (CommonJS vs ESM) –> imports/exports, tree shaking.
+Type Coercion & Equality –> == vs ===, truthy/falsy traps.
+Array & Object Methods –> map, filter, reduce, destructuring.
+Spread & Rest Operators –> flexibility in params and objects.
+Error Handling –> try/catch, custom errors, async pitfalls.
+DOM & Event Delegation –> real interview classic.
+Garbage Collection & Memory Leaks –> weak references, closures.
+ES6+ Features –> default params, optional chaining, nullish coalescing.
+Performance & Big-O Basics –> why O(n²) in rendering kills apps.
+Event Propagation (Capture vs Bubble) –> subtle but critical.
+Shallow vs Deep Copy –> structuredClone, JSON tricks, pitfalls.
+Object.defineProperty & Property Descriptors –> helpful during coding questions.
+Generators & Iterators –> custom iteration logic.
+Symbols & Well-Known Symbols –> how JS handles unique identifiers.
+Set, Map, WeakSet, WeakMap –> and when to use them.
+Optional Chaining & Nullish Coalescing –> ?. vs ??.
+Immutability & Object.freeze/seal –> functional JS mindset.
+Polyfills & Transpilation –> Babel, core-js, how older browsers cope.
+Security in JS –> XSS, CSP, sanitizing inputs (often overlooked!).
+-----------------------------
+I recently appeared in 8+ frontend interviews… and here’s what I learned 👇
+Over the last few months, I’ve been actively interviewing for frontend developer roles — and one thing surprised me:
+ Despite different companies, projects, and interview styles, the React questions kept repeating.
+So if you’re preparing for your next frontend interview, here are the Top 20 React questions that showed up in almost every one of mine 
+Top 20 Most Common React Frontend Interview Questions (2025 Edition)
+1. How do you send data from a parent component to a child component?
+2. How do you call a parent component method from a child component?
+3. How do you access a DOM element in React?
+4. How to conditionally render elements or text in React?
+5 .How to change styles based on a condition?
+6. How to show and hide data conditionally?
+7. How to implement debouncing in React?
+8. How to fetch data from an API and display it in a component?
+9. How to re-render a component on value change?
+10. How to call a method immediately after state updates or a component rerenders?
+11. How to force a component to rerender without using useState?
+12. Explain an example of optimization using useMemo.
+13. Explain an example of optimization using useCallbac.
+14. Which lifecycle methods in class components are replaced by useEffect in  functional components?
+15. How to share data between components using Context API?
+16. How do you create a custom hook in React?
+17. How do you create a lazy-loaded component?
+18. How do you build a pagination component?
+19. How do you safeguard your React application?
+20. What’s the difference between a controlled and uncontrolled component, and how do you implement them?
+ My biggest takeaway: Most interviewers don’t just want textbook answers — they want to see how you’d apply these concepts in real-world scenarios.
+ So don’t just read these — practice building small components around each.
+ ---------------------------
+ 
+
